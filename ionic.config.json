@@ -1,0 +1,8 @@
+{
+  "name": "com.kaizen.pixel.ionic3PDF",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "app_id": ""
+}
